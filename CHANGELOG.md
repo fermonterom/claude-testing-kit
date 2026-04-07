@@ -43,7 +43,7 @@ Quality gate completo integrado en `/check-tests`. Basado en feedback de Angel A
 
 ### Credits
 
-- Sugerencias de [Angel Aparicio](https://github.com/angelaparicio) y su skill quality-gate para Vive Coders
+- Sugerencias de [Ángel Aparicio](https://github.com/angelapaia) y su skill quality-gate para Vive Coders
 - Inspirado en el Cafe Camaleonico del 6 de abril de 2026
 
 ## [1.0.0] — 2026-04-06
